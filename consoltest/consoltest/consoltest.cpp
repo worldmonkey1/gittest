@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Hello intergalactic.");
+	//comment
     return 0;
 }
 
