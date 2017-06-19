@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Hello planet.");
+	printf("Hello universe.");
     return 0;
 }
 
