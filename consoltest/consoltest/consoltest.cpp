@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Hello galaxy.");
+	printf("Hello intergalactic.");
     return 0;
 }
 
