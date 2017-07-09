@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Hello intergalactic one.");
+	printf("Hello test.");
 	//comment
     return 0;
 }
